@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Welcome to the (unofficial) EIE Template Repo
-author: TEST Your Name
 ---
 
 # Welcome to the (unofficial) EIE Template Repo
