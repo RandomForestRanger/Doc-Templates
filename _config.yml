@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-primer
 plugins:
   - jekyll-remote-theme
 title: Unofficial EIE Document Templates
