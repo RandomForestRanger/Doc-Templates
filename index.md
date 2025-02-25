@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Welcome to the (unofficial) EIE Template Repo
+layout: default
 ---
 
 # Welcome to the (unofficial) EIE Template Repo
@@ -11,4 +11,4 @@ title: Welcome to the (unofficial) EIE Template Repo
 [Report (MS Word)](https://duckduckgo.com)  
 
 [Academic essay (LaTeX)](https://duckduckgo.com)  
-[Academic essay (Word)](https://duckduckgo.com) 
+[Academic essay (Word)](https://duckduckgo.com)  
