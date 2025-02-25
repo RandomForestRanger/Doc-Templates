@@ -1,8 +1,4 @@
----
-layout: home
-title: Home
-author: Martin
----
+
 ---
 # Welcome to the (unofficial) EIE Template Repo
 
